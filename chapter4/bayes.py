@@ -276,8 +276,8 @@ def getTopWords(ny, sf):
         print(item[0])
 
 
-print("【最具表征性的词汇显示函数】")
-ny = feedparser.parse('http://newyork.craigslist.org/stp/index.rss')
-sf = feedparser.parse('http://sfbay.craigslist.org/stp/index.rss')
-getTopWords(ny, sf)
-print()
+# print("【最具表征性的词汇显示函数】")
+# ny = feedparser.parse('http://newyork.craigslist.org/stp/index.rss')
+# sf = feedparser.parse('http://sfbay.craigslist.org/stp/index.rss')
+# getTopWords(ny, sf)
+# print()
